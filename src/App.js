@@ -78,7 +78,7 @@ class App extends React.Component {
             <p key={index}>
               {newArr.name}
               {newArr.color}
-              {newArr.price}
+              
             </p>
           );
         })}
